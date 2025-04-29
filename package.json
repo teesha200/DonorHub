@@ -1,7 +1,7 @@
 {
-  "name": "mern-blood-bank-app",
+  "name": "donor-hub",
   "version": "1.0.0",
-  "description": "mern blood bank app",
+  "description": "DonorHub",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
